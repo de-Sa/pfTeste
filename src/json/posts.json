@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "titulo": "Projeto Organo",
+        "texto": "Aqui está um dos meus primeiros projetos, o organo: \n\n(Ps: escrever mais sobre) \n\nLink: [Projeto Organo](https://organo-one-mu.vercel.app/)"
+    },
+    {
+        "id": 2,
+        "titulo": "Projeto 'Olá Mundo'",
+        "texto": "A pagina/blog 'Olá Mundo' desenvolvida com o professor piririm (colocar o nome dele), no qual me inspirou a criar essa pagina como meu PortFolio \n\nPs: falar mais sobre\n\nLink: [Projeto Olá Mundo](https://organo-one-mu.vercel.app/)"
+    },
+    {
+        "id": 3,
+        "titulo": "Projeto Fokus",
+        "texto": "A pagina 'Fokus' desenvolvida com o professor piririm (colocar o nome dele), no qual é uma pagina inspirada no comodoro, para auxiliar o Ser a focar na tarefe que tem para fazer \n\nPs: falar mais sobre\n\nLink: [Projeto Fokus](https://projeto-fokus-three.vercel.app/)"
+    },
+    {
+        "id": 4,
+        "titulo": "Colocar projeto",
+        "texto": "Proximo Projeto"
+    }
+]
